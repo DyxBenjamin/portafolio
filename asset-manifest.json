@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.c6cfca89.chunk.css",
-    "main.js": "/portafolio/static/js/main.2856d555.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.2856d555.chunk.js.map",
+    "main.css": "/portafolio/static/css/main.891710a3.chunk.css",
+    "main.js": "/portafolio/static/js/main.8d892d36.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.8d892d36.chunk.js.map",
     "runtime-main.js": "/portafolio/static/js/runtime-main.1845cc72.js",
     "runtime-main.js.map": "/portafolio/static/js/runtime-main.1845cc72.js.map",
     "static/js/2.fbdfc957.chunk.js": "/portafolio/static/js/2.fbdfc957.chunk.js",
     "static/js/2.fbdfc957.chunk.js.map": "/portafolio/static/js/2.fbdfc957.chunk.js.map",
     "index.html": "/portafolio/index.html",
-    "static/css/main.c6cfca89.chunk.css.map": "/portafolio/static/css/main.c6cfca89.chunk.css.map",
+    "static/css/main.891710a3.chunk.css.map": "/portafolio/static/css/main.891710a3.chunk.css.map",
     "static/js/2.fbdfc957.chunk.js.LICENSE.txt": "/portafolio/static/js/2.fbdfc957.chunk.js.LICENSE.txt",
+    "static/media/AventuraFraternal.901caf26.png": "/portafolio/static/media/AventuraFraternal.901caf26.png",
     "static/media/Fondo.4a3b8192.jpg": "/portafolio/static/media/Fondo.4a3b8192.jpg",
     "static/media/fotoPerfil.8d37b6ea.jpg": "/portafolio/static/media/fotoPerfil.8d37b6ea.jpg",
     "static/media/nasa.ece00943.jpeg": "/portafolio/static/media/nasa.ece00943.jpeg"
@@ -17,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.1845cc72.js",
     "static/js/2.fbdfc957.chunk.js",
-    "static/css/main.c6cfca89.chunk.css",
-    "static/js/main.2856d555.chunk.js"
+    "static/css/main.891710a3.chunk.css",
+    "static/js/main.8d892d36.chunk.js"
   ]
 }
